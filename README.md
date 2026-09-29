@@ -13,6 +13,7 @@ A collection of hands-on Arduino Nano experiments with code, circuit details, an
 | 05  | LED Patterns (Two LED Alternate Blinking) | [exp05_two_led_alternate](exp05_two_led_alternate) |
 | 06  | LED Patterns (Three LED Sequence) | [exp06_three_led_sequence](exp06_three_led_sequence) |
 | 07  | LED Patterns (Five LED Pattern) | [exp07_five_led_pattern](exp07_five_led_pattern) |
+| 08  | LED Patterns (Running LED / Chaser Light) | [exp08_running_led_chaser](exp08_running_led_chaser) |
 
 More experiments coming soon.
 
