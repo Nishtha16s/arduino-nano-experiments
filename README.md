@@ -24,6 +24,7 @@ A collection of hands-on Arduino Nano experiments with code, circuit details, an
 | 16  | Button Controlled Buzzer | [exp16_button_controlled_buzzer](exp16_button_controlled_buzzer) |
 | 17  | Basic Buzzer Alert | [exp17_basic_buzzer_alert](exp17_basic_buzzer_alert) |
 | 18  | Beeping Pattern Generator | [exp18_beeping_pattern_generator](exp18_beeping_pattern_generator) |
+| 19  | Button Reaction Buzzer Game | [exp19_button_reaction_buzzer_game](exp19_button_reaction_buzzer_game) |
 
 More experiments coming soon.
 
