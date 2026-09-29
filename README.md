@@ -19,6 +19,8 @@ A collection of hands-on Arduino Nano experiments with code, circuit details, an
 | 11  | Reaction Timer Game | [exp11_reaction_timer_game](exp11_reaction_timer_game) |
 | 12  | Electronic Dice with LEDs | [exp12_electronic_dice](exp12_electronic_dice) |
 | 13  | Push Button Controlled LED | [exp13_push_button_led](exp13_push_button_led) |
+| 14  | Push Button LED Toggle | [exp14_push_button_led_toggle](exp14_push_button_led_toggle) |
+| 15  | Button Controlled LED Pattern | [exp15_button_led_pattern](exp15_button_led_pattern) |
 
 More experiments coming soon.
 
