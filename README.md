@@ -15,6 +15,7 @@ A collection of hands-on Arduino Nano experiments with code, circuit details, an
 | 07  | LED Patterns (Five LED Pattern) | [exp07_five_led_pattern](exp07_five_led_pattern) |
 | 08  | LED Patterns (Running LED / Chaser Light) | [exp08_running_led_chaser](exp08_running_led_chaser) |
 | 09  | Pedestrian Detection Traffic Light | [exp09_pedestrian_traffic_light](exp09_pedestrian_traffic_light) |
+| 10  | Emergency LED Warning Pattern | [exp10_emergency_led_warning](exp10_emergency_led_warning) |
 
 More experiments coming soon.
 
