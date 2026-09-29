@@ -17,6 +17,7 @@ A collection of hands-on Arduino Nano experiments with code, circuit details, an
 | 09  | Pedestrian Detection Traffic Light | [exp09_pedestrian_traffic_light](exp09_pedestrian_traffic_light) |
 | 10  | Emergency LED Warning Pattern | [exp10_emergency_led_warning](exp10_emergency_led_warning) |
 | 11  | Reaction Timer Game | [exp11_reaction_timer_game](exp11_reaction_timer_game) |
+| 12  | Electronic Dice with LEDs | [exp12_electronic_dice](exp12_electronic_dice) |
 
 More experiments coming soon.
 
