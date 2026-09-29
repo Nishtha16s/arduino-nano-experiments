@@ -22,6 +22,7 @@ A collection of hands-on Arduino Nano experiments with code, circuit details, an
 | 14  | Push Button LED Toggle | [exp14_push_button_led_toggle](exp14_push_button_led_toggle) |
 | 15  | Button Controlled LED Pattern | [exp15_button_led_pattern](exp15_button_led_pattern) |
 | 16  | Button Controlled Buzzer | [exp16_button_controlled_buzzer](exp16_button_controlled_buzzer) |
+| 17  | Basic Buzzer Alert | [exp17_basic_buzzer_alert](exp17_basic_buzzer_alert) |
 
 More experiments coming soon.
 
