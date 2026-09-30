@@ -34,6 +34,7 @@ A collection of hands-on Arduino Nano experiments with code, circuit details, an
 | 26  | IR Controlled Buzzer | [exp26_ir_controlled_buzzer](exp26_ir_controlled_buzzer) |
 | 27  | IR Security Alarm | [exp27_ir_security_alarm](exp27_ir_security_alarm) |
 | 28  | IR Automatic Warning Light | [exp28_ir_automatic_warning_light](exp28_ir_automatic_warning_light) |
+| 29  | IR Visitor / Object Detector | [exp29_ir_visitor_object_detector](exp29_ir_visitor_object_detector) |
 More experiments coming soon.
 
 ## Hardware
