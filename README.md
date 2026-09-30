@@ -27,6 +27,7 @@ A collection of hands-on Arduino Nano experiments with code, circuit details, an
 | 19  | Button Reaction Buzzer Game | [exp19_button_reaction_buzzer_game](exp19_button_reaction_buzzer_game) |
 | 20  | Potentiometer Value Reading | [exp20_potentiometer_reading](exp20_potentiometer_reading) |
 | 21  | LED Brightness Control | [exp21_led_brightness_control](exp21_led_brightness_control) |
+| 22  | Potentiometer Controlled Blink Speed | [exp22_pot_controlled_blink_speed](exp22_pot_controlled_blink_speed) |
 
 More experiments coming soon.
 
