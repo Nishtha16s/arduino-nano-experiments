@@ -28,6 +28,7 @@ A collection of hands-on Arduino Nano experiments with code, circuit details, an
 | 20  | Potentiometer Value Reading | [exp20_potentiometer_reading](exp20_potentiometer_reading) |
 | 21  | LED Brightness Control | [exp21_led_brightness_control](exp21_led_brightness_control) |
 | 22  | Potentiometer Controlled Blink Speed | [exp22_pot_controlled_blink_speed](exp22_pot_controlled_blink_speed) |
+| 23  | Potentiometer Controlled Buzzer Pitch | [exp23_pot_controlled_buzzer_pitch](exp23_pot_controlled_buzzer_pitch) |
 
 More experiments coming soon.
 
