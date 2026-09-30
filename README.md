@@ -30,6 +30,7 @@ A collection of hands-on Arduino Nano experiments with code, circuit details, an
 | 22  | Potentiometer Controlled Blink Speed | [exp22_pot_controlled_blink_speed](exp22_pot_controlled_blink_speed) |
 | 23  | Potentiometer Controlled Buzzer Pitch | [exp23_pot_controlled_buzzer_pitch](exp23_pot_controlled_buzzer_pitch) |
 | 24  | IR Sensor Introduction & Object Detection | [exp24_ir_sensor_object_detection](exp24_ir_sensor_object_detection) |
+| 25  | IR Controlled LED | [exp25_ir_controlled_led](exp25_ir_controlled_led) |
 More experiments coming soon.
 
 ## Hardware
