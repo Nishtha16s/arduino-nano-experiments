@@ -32,6 +32,7 @@ A collection of hands-on Arduino Nano experiments with code, circuit details, an
 | 24  | IR Sensor Introduction & Object Detection | [exp24_ir_sensor_object_detection](exp24_ir_sensor_object_detection) |
 | 25  | IR Controlled LED | [exp25_ir_controlled_led](exp25_ir_controlled_led) |
 | 26  | IR Controlled Buzzer | [exp26_ir_controlled_buzzer](exp26_ir_controlled_buzzer) |
+| 27  | IR Security Alarm | [exp27_ir_security_alarm](exp27_ir_security_alarm) |
 More experiments coming soon.
 
 ## Hardware
