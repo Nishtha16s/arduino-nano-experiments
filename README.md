@@ -31,6 +31,7 @@ A collection of hands-on Arduino Nano experiments with code, circuit details, an
 | 23  | Potentiometer Controlled Buzzer Pitch | [exp23_pot_controlled_buzzer_pitch](exp23_pot_controlled_buzzer_pitch) |
 | 24  | IR Sensor Introduction & Object Detection | [exp24_ir_sensor_object_detection](exp24_ir_sensor_object_detection) |
 | 25  | IR Controlled LED | [exp25_ir_controlled_led](exp25_ir_controlled_led) |
+| 26  | IR Controlled Buzzer | [exp26_ir_controlled_buzzer](exp26_ir_controlled_buzzer) |
 More experiments coming soon.
 
 ## Hardware
