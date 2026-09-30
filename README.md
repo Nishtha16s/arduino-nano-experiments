@@ -35,6 +35,7 @@ A collection of hands-on Arduino Nano experiments with code, circuit details, an
 | 27  | IR Security Alarm | [exp27_ir_security_alarm](exp27_ir_security_alarm) |
 | 28  | IR Automatic Warning Light | [exp28_ir_automatic_warning_light](exp28_ir_automatic_warning_light) |
 | 29  | IR Visitor / Object Detector | [exp29_ir_visitor_object_detector](exp29_ir_visitor_object_detector) |
+| 30  | IR + BC547 Smart Intruder Alarm (Final Project) | [exp30_ir_bc547_smart_intruder_alarm](exp30_ir_bc547_smart_intruder_alarm) |
 More experiments coming soon.
 
 ## Hardware
